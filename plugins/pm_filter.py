@@ -147,19 +147,18 @@ async def next_page(bot, query):
     try:
         if settings['auto_delete']:
             btn.insert(0, 
-                [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                [                    
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+LC3GZ8HoeM0zMmZl') 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
-                ]
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+LC3GZ8HoeM0zMmZl') 
+                ]                    
             )
                 
     except KeyError:
@@ -169,17 +168,16 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+LC3GZ8HoeM0zMmZl')                     
                 ]
             )
 
         else:
             btn.insert(0, 
-                [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                [                    
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+LC3GZ8HoeM0zMmZl')                                         
                 ]
             )
     try:
@@ -271,12 +269,6 @@ async def next_page(bot, query):
                         InlineKeyboardButton("𝐍𝐄𝐗𝐓 ➪", callback_data=f"next_{req}_{key}_{n_offset}")
                     ],
                 )
-    btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#files#{offset}")
-    ])
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-    ])
     try:
         await query.edit_message_reply_markup(
             reply_markup=InlineKeyboardMarkup(btn)
