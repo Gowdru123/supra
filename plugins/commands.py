@@ -22,17 +22,13 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
-                ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
-                  ]]
+                    InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
+                  ],[
+                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+LC3GZ8HoeM0zMmZl"),          
+                    InlineKeyboardButton('🔈𝐍𝐞𝐰 𝐦𝐨𝐯𝐢𝐞🔈', url=f"https://t.me/+D7L-rX9lKA43MGRl")
+                  ],[                 
+                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/Beastonejnanesh")
+                  ]]                
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
         await asyncio.sleep(2) # 😢 https://github.com/EvamariaTG/EvaMaria/blob/master/plugins/p_ttishow.py#L17 😬 wait a bit, before checking.
@@ -46,17 +42,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
-                ],[
-                    InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
-                  ]]
+                    InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
+                  ],[
+                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+LC3GZ8HoeM0zMmZl"),          
+                    InlineKeyboardButton('🔈𝐍𝐞𝐰 𝐦𝐨𝐯𝐢𝐞🔈', url=f"https://t.me/+D7L-rX9lKA43MGRl")
+                  ],[                 
+                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/Beastonejnanesh")
+                  ]]                  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
