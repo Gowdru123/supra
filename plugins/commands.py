@@ -24,10 +24,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
                   ],[
-                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+LC3GZ8HoeM0zMmZl"),          
+                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+rv38g-WzTlAwY2Fl"),          
                     InlineKeyboardButton('🔈𝐍𝐞𝐰 𝐦𝐨𝐯𝐢𝐞🔈', url=f"https://t.me/+D7L-rX9lKA43MGRl")
                   ],[                 
-                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/Beastonejnanesh")
+                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/jnaneshgowdru")
                   ]]                
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -44,10 +44,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
                   ],[
-                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+LC3GZ8HoeM0zMmZl"),          
+                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+rv38g-WzTlAwY2Fl"),          
                     InlineKeyboardButton('🔈𝐍𝐞𝐰 𝐦𝐨𝐯𝐢𝐞🔈', url=f"https://t.me/+D7L-rX9lKA43MGRl")
                   ],[                 
-                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/Beastonejnanesh")
+                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/jnaneshgowdru")
                   ]]                  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -89,10 +89,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔥 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐠𝐫𝐨𝐮𝐩 🔥', url=f"https://t.me/JN_MOVIE_REQUIST_GROUP")
                   ],[
-                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+LC3GZ8HoeM0zMmZl"),          
+                    InlineKeyboardButton('🥵𝐀𝐝𝐮𝐥𝐭 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ', url=f"https://t.me/+rv38g-WzTlAwY2Fl"),          
                     InlineKeyboardButton('🔈𝐍𝐞𝐰 𝐦𝐨𝐯𝐢𝐞🔈', url=f"https://t.me/+D7L-rX9lKA43MGRl")
                   ],[                 
-                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/Beastonejnanesh")
+                    InlineKeyboardButton('🤑 earn money through  this bot 🤑', url=f"https://t.me/jnaneshgowdru")
                   ]]                 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -146,7 +146,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Beastonejnanesh")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/jnaneshgowdru")
                          ]
                         ]
                     )
@@ -165,7 +165,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Beastonejnanesh")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/jnaneshgowdru")
                          ]
                         ]
                     )
@@ -336,7 +336,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Beastonejnanesh")
+              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/jnaneshgowdru")
              ]
             ]
         )
