@@ -148,16 +148,16 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [                    
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]                    
             )
                 
@@ -168,16 +168,16 @@ async def next_page(bot, query):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1')                     
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl')                     
                 ]
             )
 
         else:
             btn.insert(0, 
                 [                    
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1')                                         
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl')                                         
                 ]
             )
     try:
@@ -1443,16 +1443,16 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]                                        
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]                                                           
             )
                 
@@ -1463,16 +1463,16 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]                   
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+Rf7HPykmLC5hOWQ9'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+tHINg_Hojbg3MzE1') 
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+rv38g-WzTlAwY2Fl') 
                 ]                                    
             )
 
