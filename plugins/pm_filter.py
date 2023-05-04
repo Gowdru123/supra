@@ -149,7 +149,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]
             )
 
@@ -157,7 +157,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]                    
             )
                 
@@ -169,7 +169,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl')                     
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')                     
                 ]
             )
 
@@ -177,7 +177,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl')                                         
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')                                         
                 ]
             )
     try:
@@ -1444,7 +1444,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]                                        
             )
 
@@ -1452,7 +1452,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]                                                           
             )
                 
@@ -1464,7 +1464,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]                   
             )
 
@@ -1472,7 +1472,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+cYSeuKsSoJxlZTFl') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
                 ]                                    
             )
 
@@ -1729,14 +1729,14 @@ async def manual_filters(client, message, text=False):
                                 else:
                                     try:
                                         if settings['auto_delete']:
-                                            await asyncio.sleep(600)
+                                            await asyncio.sleep(60)
                                             await joelkb.delete()
                                     except KeyError:
                                         grpid = await active_connection(str(message.from_user.id))
                                         await save_group_settings(grpid, 'auto_delete', True)
                                         settings = await get_settings(message.chat.id)
                                         if settings['auto_delete']:
-                                            await asyncio.sleep(600)
+                                            await asyncio.sleep(60)
                                             await joelkb.delete()
                             except KeyError:
                                 grpid = await active_connection(str(message.from_user.id))
@@ -1770,14 +1770,14 @@ async def manual_filters(client, message, text=False):
                                 else:
                                     try:
                                         if settings['auto_delete']:
-                                            await asyncio.sleep(600)
+                                            await asyncio.sleep(60)
                                             await joelkb.delete()
                                     except KeyError:
                                         grpid = await active_connection(str(message.from_user.id))
                                         await save_group_settings(grpid, 'auto_delete', True)
                                         settings = await get_settings(message.chat.id)
                                         if settings['auto_delete']:
-                                            await asyncio.sleep(600)
+                                            await asyncio.sleep(60)
                                             await joelkb.delete()
                             except KeyError:
                                 grpid = await active_connection(str(message.from_user.id))
