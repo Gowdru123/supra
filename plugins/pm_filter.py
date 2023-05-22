@@ -63,7 +63,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>𝐔𝐫 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐦𝐨𝐯𝐢𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐠𝐫𝐨𝐮𝐩 𝐉𝐨𝐢𝐧 𝐚𝐧𝐝 𝐚𝐬𝐤 https://t.me/+7SwAJ9sJqp44NmI1</b>")
+    await message.reply_text("<b>𝐔𝐫 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐦𝐨𝐯𝐢𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐠𝐫𝐨𝐮𝐩 𝐉𝐨𝐢𝐧 𝐚𝐧𝐝 𝐚𝐬𝐤 https://t.me/+7SwAJ9sJqp44NmI1 if u want 18+ 🔥🥵 adult channel join here https://t.me/+7eNPNCwILXhhZmJl</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -149,7 +149,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]
             )
 
@@ -157,7 +157,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]                    
             )
                 
@@ -169,7 +169,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')                     
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl')                     
                 ]
             )
 
@@ -177,7 +177,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')                                         
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl')                                         
                 ]
             )
     try:
@@ -1444,7 +1444,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]                                        
             )
 
@@ -1452,7 +1452,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]                                                           
             )
                 
@@ -1464,7 +1464,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]                   
             )
 
@@ -1472,7 +1472,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT') 
+                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
                 ]                                    
             )
 
