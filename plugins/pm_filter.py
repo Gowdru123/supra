@@ -149,7 +149,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]
             )
 
@@ -157,7 +157,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]                    
             )
                 
@@ -169,7 +169,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl')                     
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑 ", url='https://t.me/+gaZmDaFsuiQ3NGU1')                     
                 ]
             )
 
@@ -177,7 +177,7 @@ async def next_page(bot, query):
             btn.insert(0, 
                 [                    
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl')                                         
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1')                                         
                 ]
             )
     try:
@@ -1444,7 +1444,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]                                        
             )
 
@@ -1452,7 +1452,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]                                                           
             )
                 
@@ -1464,7 +1464,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]                   
             )
 
@@ -1472,7 +1472,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0, 
                 [
                     InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
-                    InlineKeyboardButton(text="🔥 Adult channel 🔥", url='https://t.me/+7eNPNCwILXhhZmJl') 
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+gaZmDaFsuiQ3NGU1') 
                 ]                                    
             )
 
