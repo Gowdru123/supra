@@ -270,10 +270,10 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#files#{offset}")
+        InlineKeyboardButton("🔥 new released HD MOVIE", url=f"https://t.me/+D7L-rX9lKA43MGRl")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⚡ theater print movie's ⚡", url=f"https://t.me/theaterprintbot")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1449,17 +1449,16 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+t8pjcIOQkuNjM2U1') 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+t8pjcIOQkuNjM2U1') 
                 ]
             )
                 
@@ -1470,26 +1469,25 @@ async def auto_filter(client, msg, spoll=False):
         if settings['auto_delete']:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+t8pjcIOQkuNjM2U1') 
                 ]
             )
 
         else:
             btn.insert(0, 
                 [
-                    InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-                    InlineKeyboardButton(f'ꜱᴇʀɪᴇꜱ', 'sinfo')
+                    InlineKeyboardButton(text="💎 𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 💎", url='https://t.me/+boLdG3eXlko0MTBl'),
+                    InlineKeyboardButton(text="🍑 Adult channel 🍑", url='https://t.me/+t8pjcIOQkuNjM2U1') 
                 ]
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}")
+        InlineKeyboardButton("🔥 2023 released HD MOVIE'S 🔥", url=f"https://t.me/+D7L-rX9lKA43MGRl")
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton("⚡ theater print movies ⚡", url=f"https://t.me/theaterprintbot")
     ])
 
     if offset != "":
